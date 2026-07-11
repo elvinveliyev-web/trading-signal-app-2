@@ -9,3 +9,9 @@ kaleido==0.2.1
 Pillow==11.1.0
 requests==2.32.3
 reportlab==4.3.1
+
+pyarrow==18.1.0
+protobuf==5.29.5
+urllib3==2.2.3
+charset-normalizer==3.4.1
+chardet==5.2.0
