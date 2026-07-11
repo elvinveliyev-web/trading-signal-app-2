@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+kaleido
+google-generativeai
+Pillow
+requests
+reportlab
+google-genai
+transformers
+torch
+scikit-learn
